@@ -5,7 +5,7 @@ This project demonstrates the use of `Button`, `TextBox`, and server-side event 
 
 ## Features
 
-- Add, Subtract, Multiply, Divide two numbers,modulous
+- Add, Subtract, Multiply, Divide two numbers,modulo
 - AC (clear) button
 - Backspace functionality
 - Input handling with validation
